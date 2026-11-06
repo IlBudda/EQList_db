@@ -30,8 +30,8 @@
 
 ## Fatto
 - **LG / Pending LG**:
-  - 20 colonne tecniche aggiunte; doppioni ARRI uniti (ARRIMAX 18/12, M8, M18, M40, M90, SkyPanel X21).
-  - 64 luci ARRI compilate dal sito ARRI.
+  - Doppioni ARRI uniti (ARRIMAX 18/12, M8, M18, M40, M90, SkyPanel X21); descrizioni ARRI in inglese.
+  - Le 20 colonne tecniche aggiunte dopo `weight` sono state ELIMINATE dall'utente: le colonne di LG/Pending LG ora finiscono con `weight, websiteUrl`.
 - **Camera**:
   - Schema di 41 colonne, più 7 colonne per gli accessori (accessoryType…powerSource); camere e accessori ARRI compilati.
   - Pending Camera unito in Camera (135 righe, FX6 unita); Pending Camera ora contiene solo l'intestazione.
